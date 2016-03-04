@@ -1,0 +1,32 @@
+html,body{
+    /*widescreen*/
+	min-height: 700px;
+	
+}
+
+.slide_content{
+	/*widescreen */
+	padding-top: 40px;
+}
+
+#panel, #product_info{
+  	top: 360px;
+}
+
+.slide_content{	
+	/*widescreen */
+	padding-top: 40px;
+}
+
+
+#about_panel{	
+  	top: 420px;
+}
+
+.banner ul li, .static_banner ul li {
+	min-height: 370px;
+}
+
+.center{
+	width: 75%;
+}
